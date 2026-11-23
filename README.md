@@ -23,6 +23,7 @@ In 2026, the industry officially shifted to a **200-day maximum certificate life
 * [Checkly](https://www.checklyhq.com/) - Synthetic monitoring that includes SSL expiry and chain validation.
 * [Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) - The standard for Probing endpoints via HTTP, DNS, TCP, and ICMP, including SSL/TLS metrics for Prometheus.
 * [SSL Labs Server Test](https://www.ssllabs.com/ssltest/) - Deep analysis of the configuration of any SSL web server.
+* [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - Self-hosted monitor that checks HTTPS certificate expiry and sends expiry alerts by email or Telegram.
 
 ## Automation & Issuance
 *Tools to handle the high-frequency rotation of short-lived certificates.*
